@@ -2,7 +2,18 @@
 
  Yet to be official Jenkins sticker pack on Telegram.
  Get it [here](https://t.me/addstickers/JenkinsOfficial).
- 
+
+## Usage
+
+* Install the sticker pack in your Telegram account by following [this link](https://t.me/addstickers/JenkinsOfficial).
+* Try using some emojis! Many logos in the stickerpack are associated with images
+
+## Reporting issues
+
+If you have any sticker suggestions or bug reports, 
+please [report a GitHub Issue](https://github.com/jenkins-ru/jenkins-telegram-stickers/issues/new).
+This repository uses English as official language.
+
 ## Attribution
 
 All stickers are based on the official [Jenkins Artwork](https://www.jenkins.io/artwork/) or derived images.
