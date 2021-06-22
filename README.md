@@ -3,7 +3,7 @@
  Yet to be official Jenkins sticker pack on Telegram.
  Get it [here](https://t.me/addstickers/JenkinsOfficial).
  
- ![Jenkins image pack](/docs/images/jenkins-stickers.png)
+ ![Jenkins image pack](/doc/images/jenkins-stickers.png)
 
 
 ## Usage
