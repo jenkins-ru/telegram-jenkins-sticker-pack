@@ -1,4 +1,4 @@
-# Jenkins sticker Pack for Telegram
+# Jenkins sticker pack for Telegram
 
  Yet to be official Jenkins sticker pack on Telegram.
  Get it [here](https://t.me/addstickers/JenkinsOfficial).
