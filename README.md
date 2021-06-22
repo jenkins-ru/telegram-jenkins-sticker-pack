@@ -8,11 +8,15 @@
 * Install the sticker pack in your Telegram account by following [this link](https://t.me/addstickers/JenkinsOfficial).
 * Try using some emojis! Many logos in the stickerpack are associated with images
 
-## Reporting issues
+## Reporting suggestions and issues
 
 If you have any sticker suggestions or bug reports, 
 please [report a GitHub Issue](https://github.com/jenkins-ru/jenkins-telegram-stickers/issues/new).
 This repository uses English as official language.
+
+## Contributing
+
+See the [Contributing Guildelines](./CONTRIBUTING.md).
 
 ## Attribution
 
