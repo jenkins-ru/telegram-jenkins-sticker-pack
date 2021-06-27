@@ -5,7 +5,6 @@
  
  ![Jenkins image pack](/doc/images/jenkins-stickers.png)
 
-
 ## Usage
 
 * Install the sticker pack in your Telegram account by following [this link](https://t.me/addstickers/JenkinsOfficial).

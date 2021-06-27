@@ -1,3 +1,3 @@
 ## Stickers
 
-This direcotory contains stickers from the sticker pack.
+This directory contains stickers from the sticker pack.
